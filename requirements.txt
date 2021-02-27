@@ -1,0 +1,3 @@
+zipcodes
+matplotlib
+numpy
